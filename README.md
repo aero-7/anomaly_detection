@@ -1,2 +1,2 @@
 # anomaly_detection
-This repo contains data files and python scripts to develop machine learning models for anomaly detection in some radio telescope temperature sensor datasets. 
+This repo contains data files and python scripts used to develop machine learning models for anomaly detection in temperature sensor datasets of receivers in some of the receptors of the MeerKAT radio telescope of the South Africa Radio Astronomy Observatory. The python codes were developed by myself to aid the methodology in my thesis towards obtaining a graduate degree from a university in Ghana. 
